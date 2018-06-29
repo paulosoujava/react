@@ -1,5 +1,11 @@
-# react-mimimi
-React demos
-Just demos create in  React - Native.
+EN
+------
+My study about react native
+About this app:
+Just a joke about mimimi image, where you write a word and the system change the vowel to i
 
-this demo is about my study in react-native, just a simple code, enjoy it
+Images
+----
+
+![](https://github.com/paulosoujava/react-mimimi/blob/master/image/telaMIMI.png) 
+![](https://github.com/paulosoujava/react-mimimi/blob/master/image/telaMIMI2.png) 
