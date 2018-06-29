@@ -26,5 +26,14 @@ just a  mimimi generator, where the system replace the vowel (a,e,o,u) to i, thi
 
 Images
 ----
-![](https://github.com/paulosoujava/react-mimimi/blob/master/image/telaMIMI.png) 
-![](https://github.com/paulosoujava/react-mimimi/blob/master/image/telaMIMI2.png) 
+
+IOS
+---
+
+![](https://github.com/paulosoujava/react-mimimi/blob/master/image/ios_tela_1.png) 
+![](https://github.com/paulosoujava/react-mimimi/blob/master/image/ios_tela_1.png) 
+
+ANDROID
+----
+![](https://github.com/paulosoujava/react-mimimi/blob/master/image/android_tela_1.png) 
+![](https://github.com/paulosoujava/react-mimimi/blob/master/image/android_tela_2.png) 
