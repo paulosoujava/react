@@ -5,13 +5,22 @@
 
 
 Meus estudos sobre o react-nate
+---
+
 Sobre este ap:
-Somente uma brincadira de quem est'á iniciando com o react-native, trata-se de um gerador de mimimi onde vc escre uma palavra e ela troca as vogais por i
+---
+
+Somente uma brincadeira de quem está iniciando com o react-native, trata-se de um gerador de mimimi onde vc escreve uma palavra e o sistema subistirua as vogais por i
+
 ----
 
 My study about react native
+---
+
 About this app:
-Just a joke about mimimi image, where you write a word and the system change the vowel to i
+---
+
+just a  mimimi generator, where the system replace the vowel (a,e,o,u) to i, this app is about my study in react-native, this is my first app
 
 ---
 
