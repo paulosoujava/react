@@ -31,7 +31,7 @@ IOS
 ---
 
 ![](https://github.com/paulosoujava/react-mimimi/blob/master/image/ios_tela_1.png) 
-![](https://github.com/paulosoujava/react-mimimi/blob/master/image/ios_tela_1.png) 
+![](https://github.com/paulosoujava/react-mimimi/blob/master/image/ios_tela_2.png) 
 
 ANDROID
 ----
