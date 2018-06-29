@@ -4,7 +4,7 @@
 ---
 
 
-Meus estudos sobre o react-nate
+Meus estudos sobre o react-native
 ---
 
 Sobre este ap:
